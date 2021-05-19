@@ -65,7 +65,7 @@
 			<version>1.2.8-SNAPSHOT</version> </dependency> -->
 		<dependency>
 			<groupId>kit.edu</groupId>
-			<artifactId>agnos_collab-0.0.1</artifactId>
+			<artifactId>agnos_collab</artifactId>
 			<version>0.0.1</version>
 		</dependency>
 	</dependencies>
